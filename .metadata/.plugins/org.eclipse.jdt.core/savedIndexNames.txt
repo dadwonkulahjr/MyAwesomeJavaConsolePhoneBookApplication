@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Dad S. Wonkulah Jr\Documents\eclipse-workspace\Java_Developer\MyAwesomeProgram\.metadata\.plugins\org.eclipse.jdt.core
+3460880079.index
+2671992132.index
